@@ -9,7 +9,8 @@ Kangyurs:
 - `W22703`, `O01JW005` (N) contains IDs for `D`, `H` and `N` (~correct)
 - `W26071`, `O1PD11016` (H) contains IDs for `D`, `H` (~correct) and `N`
 - `W29468`, `O1PD19510` (U) contains IDs for `D`, `H` and `N` (what would be correct? no idea, maybe `N`)
-- `W1PD96685`, `O4CZ3720` (C) contains IDs for `N`, stog, `D`, `H`
+- `W1PD96685`, `O4CZ3720` (C) contains IDs for `N`, `S`, `D`, `H`
+- `W22083`, `O01CT0007` (S) contains IDs for `S` (~correct), `D`
 
 
 Example of SPARQL request to produce the csv files:
