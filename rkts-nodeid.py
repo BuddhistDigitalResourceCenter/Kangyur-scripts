@@ -26,6 +26,7 @@ def fillCatalogues():
     fillCatalogue('H-rKTs.csv', 'H')
     fillCatalogue('N-rKTs.csv', 'N')
     fillCatalogue('S-rKTs.csv', 'S')
+    #fillCatalogue('A-rKTs.csv', 'A')
 
 def fillOutline(filename, workname, catname):
     global cattorkts, result
@@ -59,6 +60,7 @@ def fillOutlines():
     fillOutline('W26071-H.csv', 'W26071', 'H')
     fillOutline('W29468-N.csv', 'W29468', 'N')
     fillOutline('W22083-S.csv', 'W22083', 'S')
+    fillOutline('W4CZ5369-D.csv', 'W4CZ5369', 'D')
 
 fillCatalogues()
 fillOutlines()
