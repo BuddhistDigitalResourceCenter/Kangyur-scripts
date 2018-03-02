@@ -6,7 +6,7 @@ Kangyurs:
 - `W22084`, `O1GS12980` (D) contains IDs for `D` (~correct) and `Toh`
 - `W4CZ5369`, `O4CZ5369` (D), idem
 - `W30532`, (no outline) (D), idem
-- `W1PD96682`, `O1PD112371` (CK), idem
+- `W1PD96682`, `O1PD112371` (A), no catalogue indication in the outline
 - `W4CZ7445`, `O1PD185519` (J), idem
 - `W22703`, `O01JW005` (N) contains IDs for `D`, `H` and `N` (~correct)
 - `W26071`, `O1PD11016` (H) contains IDs for `D`, `H` (~correct) and `N`
@@ -25,7 +25,7 @@ PREFIX adm: <http://purl.bdrc.io/ontology/admin/>
 
 SELECT ?nodeId ?N ?D
 WHERE {
-  GRAPH bdr:W4CZ5369 {
+  GRAPH bdr:W1PD96682 {
   	?subject adm:workLegacyNode ?nodeId .
   	OPTIONAL { ?subject bdo:workKaTenSiglaD ?D }
   	OPTIONAL { ?subject bdo:workKaTenSiglaH ?N }
