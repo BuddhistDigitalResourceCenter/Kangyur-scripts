@@ -21,7 +21,7 @@ Tengyurs:
 - `W22704`, `O2DB75712` (N), contains IDs for `D`, `Q` (~correct?) and `G`
 - `W1KG13126`, `O1PD181215` (Q), contains IDs for `Q` (~correct?) and `G`
 - `W1PD95844`, `O2MS16391` (A), contains IDs for `Toh` (~correct?), `Q` and `G`
-- `W23702`, `O00CR0008` (G), `Q` and `G` (~correct?)
+- `W23702`, `O00CR0008` (G), `Q` (~correct?) and `G`
 
 Example of SPARQL request to produce the csv files:
 
