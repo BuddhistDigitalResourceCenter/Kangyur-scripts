@@ -14,7 +14,14 @@ Kangyurs:
 - `W1PD96685`, `O4CZ3720` (C) contains IDs for `N`, `S`, `D`, `H`
 - `W22083`, `O01CT0007` (S) contains IDs for `S` (~correct), `D`
 
+Tengyurs:
 
+- `W1GS66030`, `O2DB20796` (C) contains IDs for `Toh`
+- `W23703`, `O1GS6011` (D), idem
+- `W22704`, `O2DB75712` (N), contains IDs for `D`, `Q` (~correct?) and `G`
+- `W1KG13126`, `O1PD181215` (Q), contains IDs for `Q` (~correct?) and `G`
+- `W1PD95844`, `O2MS16391` (A), contains IDs for `Toh` (~correct?), `Q` and `G`
+- `W23702`, `O00CR0008` (G), `Q` and `G` (~correct?)
 
 Example of SPARQL request to produce the csv files:
 
